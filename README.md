@@ -27,4 +27,5 @@ This repository contains fan-made English translations and formatted subtitle fi
 * All original rights to *Hotaru no Yomeiri* belong to Oreco Tachibana and Shogakukan
 * 
   https://www.youtube.com/watch?v=A2ZuZt01_Po
+  
   https://www.youtube.com/watch?v=Q2JPC7uKg1g
