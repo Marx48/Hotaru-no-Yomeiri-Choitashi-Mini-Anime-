@@ -16,7 +16,7 @@ This repository contains fan-made English translations and formatted subtitle fi
 
 ## 🛠️ How to Use
 
-1. Download the `.ass` or `.srt` subtitle file from the repository.
+1. Download the .ass subtitle file from the repository.
 2. Place the downloaded subtitle file in the same folder as your video file.
 3. Rename the subtitle file to match the exact name of the video file (e.g., Episode 01.mp4 and Episode 01.ass).
 4. Play the video using a compatible media player such as **VLC**, **MPC-HC**, or **mpv**.
